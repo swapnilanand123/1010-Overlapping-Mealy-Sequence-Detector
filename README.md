@@ -58,4 +58,9 @@ A sequence detector, particularly a Mealy state machine, is a digital circuit th
    - The output is generated at each clock cycle, dependent on the current state and input.
    - When the machine is in state S3, it outputs '1' to indicate that the "1010" sequence has been detected.
 
+8.  Waveform
+
+    ![image](https://github.com/swapnilanand123/1010-Overlapping-Mealy-Sequence-Detector/assets/143795450/1ad7142a-a9d0-4731-a0a3-75d0412a9d0f)
+
+
 This Mealy state machine will effectively detect the sequence "1010" in an input stream and provide the output '1' when the sequence is found. It will continue scanning for the next occurrence after detection, as indicated by the state transitions.
