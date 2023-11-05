@@ -47,8 +47,10 @@ A sequence detector, particularly a Mealy state machine, is a digital circuit th
    - If it receives '0' in state S3, it goes back to S0.
   
 5. State Diagram
+   
    ![image](https://github.com/swapnilanand123/1010-Overlapping-Mealy-Sequence-Detector/assets/143795450/35d507a3-4a8a-4d56-a15e-e21c93802f19)
-                                        1010 Sequence Detection State Diagram
+
+       1010 Sequence Detection State Diagram
 
 
 7. Mealy Machine Operation:
